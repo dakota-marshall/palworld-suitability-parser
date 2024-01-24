@@ -1,5 +1,5 @@
 Watering
-{| class="wikitable"
+{| class="wikitable sortable mw-collapsible"
 |+
 !Pal
 !No.
@@ -83,7 +83,7 @@ Watering
 |}
 
 Kindling
-{| class="wikitable"
+{| class="wikitable sortable mw-collapsible"
 |+
 !Pal
 !No.
@@ -207,7 +207,7 @@ Kindling
 |}
 
 Planting
-{| class="wikitable"
+{| class="wikitable sortable mw-collapsible"
 |+
 !Pal
 !No.
@@ -316,7 +316,7 @@ Planting
 |}
 
 Generating Electricity
-{| class="wikitable"
+{| class="wikitable sortable mw-collapsible"
 |+
 !Pal
 !No.
@@ -380,7 +380,7 @@ Generating Electricity
 |}
 
 Handiwork
-{| class="wikitable"
+{| class="wikitable sortable mw-collapsible"
 |+
 !Pal
 !No.
@@ -634,7 +634,7 @@ Handiwork
 |}
 
 Gathering
-{| class="wikitable"
+{| class="wikitable sortable mw-collapsible"
 |+
 !Pal
 !No.
@@ -863,7 +863,7 @@ Gathering
 |}
 
 Lumbering
-{| class="wikitable"
+{| class="wikitable sortable mw-collapsible"
 |+
 !Pal
 !No.
@@ -1052,7 +1052,7 @@ Lumbering
 |}
 
 Mining
-{| class="wikitable"
+{| class="wikitable sortable mw-collapsible"
 |+
 !Pal
 !No.
@@ -1176,7 +1176,7 @@ Mining
 |}
 
 Medicine Production
-{| class="wikitable"
+{| class="wikitable sortable mw-collapsible"
 |+
 !Pal
 !No.
@@ -1265,7 +1265,7 @@ Medicine Production
 |}
 
 Cooling
-{| class="wikitable"
+{| class="wikitable sortable mw-collapsible"
 |+
 !Pal
 !No.
@@ -1359,7 +1359,7 @@ Cooling
 |}
 
 Transporting
-{| class="wikitable"
+{| class="wikitable sortable mw-collapsible"
 |+
 !Pal
 !No.
@@ -1643,7 +1643,7 @@ Transporting
 |}
 
 Farming
-{| class="wikitable"
+{| class="wikitable sortable mw-collapsible"
 |+
 !Pal
 !No.
