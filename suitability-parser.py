@@ -90,7 +90,7 @@ def create_wikitable(suitabilities: dict) -> list[str]:
 |+
 !Pal
 !No.
-!{{{{i|{suitability}}}}} Level
+!{{{{i|{suitability}|notext}}}} Level
 !Food
 """
         # Add every pal to table

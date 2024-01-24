@@ -3,7 +3,7 @@ Watering
 |+
 !Pal
 !No.
-!{{i|Watering}} Level
+!{{i|Watering|notext}} Level
 !Food
 |-
 |{{i|Teafant}}
@@ -87,7 +87,7 @@ Kindling
 |+
 !Pal
 !No.
-!{{i|Kindling}} Level
+!{{i|Kindling|notext}} Level
 !Food
 |-
 |{{i|Boltmane}}
@@ -211,7 +211,7 @@ Planting
 |+
 !Pal
 !No.
-!{{i|Planting}} Level
+!{{i|Planting|notext}} Level
 !Food
 |-
 |{{i|Lifmunk}}
@@ -320,7 +320,7 @@ Generating Electricity
 |+
 !Pal
 !No.
-!{{i|Generating Electricity}} Level
+!{{i|Generating Electricity|notext}} Level
 !Food
 |-
 |{{i|Grizzbolt}}
@@ -384,7 +384,7 @@ Handiwork
 |+
 !Pal
 !No.
-!{{i|Handiwork}} Level
+!{{i|Handiwork|notext}} Level
 !Food
 |-
 |{{i|Anubis}}
@@ -638,7 +638,7 @@ Gathering
 |+
 !Pal
 !No.
-!{{i|Gathering}} Level
+!{{i|Gathering|notext}} Level
 !Food
 |-
 |{{i|Lifmunk}}
@@ -867,7 +867,7 @@ Lumbering
 |+
 !Pal
 !No.
-!{{i|Lumbering}} Level
+!{{i|Lumbering|notext}} Level
 !Food
 |-
 |{{i|Lifmunk}}
@@ -1056,7 +1056,7 @@ Mining
 |+
 !Pal
 !No.
-!{{i|Mining}} Level
+!{{i|Mining|notext}} Level
 !Food
 |-
 |{{i|Anubis}}
@@ -1180,7 +1180,7 @@ Medicine Production
 |+
 !Pal
 !No.
-!{{i|Medicine Production}} Level
+!{{i|Medicine Production|notext}} Level
 !Food
 |-
 |{{i|Lifmunk}}
@@ -1269,7 +1269,7 @@ Cooling
 |+
 !Pal
 !No.
-!{{i|Cooling}} Level
+!{{i|Cooling|notext}} Level
 !Food
 |-
 |{{i|Mau Cryst}}
@@ -1363,7 +1363,7 @@ Transporting
 |+
 !Pal
 !No.
-!{{i|Transporting}} Level
+!{{i|Transporting|notext}} Level
 !Food
 |-
 |{{i|Anubis}}
@@ -1647,7 +1647,7 @@ Farming
 |+
 !Pal
 !No.
-!{{i|Farming}} Level
+!{{i|Farming|notext}} Level
 !Food
 |-
 |{{i|Mau}}
