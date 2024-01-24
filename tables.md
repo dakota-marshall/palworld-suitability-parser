@@ -91,7 +91,7 @@ Kindling
 !Food
 |-
 |{{i|Boltmane}}
-|-1
+|n/a
 |2  
 |5      
 |-
@@ -1472,7 +1472,7 @@ Transporting
 |2      
 |-
 |{{i|Dragostrophe}}
-|-1
+|n/a
 |3  
 |8      
 |-

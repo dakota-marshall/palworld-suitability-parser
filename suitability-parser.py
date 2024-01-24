@@ -47,6 +47,8 @@ def get_suitabilities() -> dict[list[dict]]:
 
         food_level = data["FoodAmount"]
         pal_num = str(data["ZukanIndex"]) + data["ZukanIndexSuffix"]
+        if pal_num == "-1":
+            pal_num = "n/a"
 
         # Get suitability levels
         suitability_levels = {
