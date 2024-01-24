@@ -84,7 +84,7 @@ def create_wikitable(suitabilities: dict) -> list[str]:
     # iterate suitabilities
     for suitability, data in suitabilities.items():
         table = f"""{suitability}
-{{| class="wikitable"
+{{| class="wikitable sortable mw-collapsible"
 |+
 !Pal
 !No.
