@@ -46,6 +46,7 @@ def get_suitabilities() -> dict[list[dict]]:
             continue
 
         food_level = data["FoodAmount"]
+        pal_num = str(data["ZukanIndex"]) + data["ZukanIndexSuffix"]
 
         # Get suitability levels
         suitability_levels = {
@@ -68,6 +69,7 @@ def get_suitabilities() -> dict[list[dict]]:
             if level > 0:
                 pal_data = {
                     'name': name,
+                    'pal_num': pal_num,
                     'level': level,
                     'food_level': food_level
                 }
@@ -88,16 +90,14 @@ def create_wikitable(suitabilities: dict) -> list[str]:
 !No.
 !{{{{i|{suitability}}}}} Level
 !Food
-!Notes
 """
         # Add every pal to table
         for pal in data:
             entry = f"""|-
 |{{{{i|{pal['name']}}}}}
-|
+|{pal['pal_num']}
 |{pal['level']}  
-|{pal['food_level']}
-|          
+|{pal['food_level']}      
 """
             table += entry
         # Add closing string
